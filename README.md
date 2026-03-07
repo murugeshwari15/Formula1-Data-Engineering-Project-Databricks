@@ -8,6 +8,7 @@ This project demonstrates a data engineering pipeline built using Databricks and
 - PySpark
 - Delta Lake
 - Spark SQL
+- Unity Catalog
 
 ## Architecture
 Bronze → Silver → Gold Medallion Architecture
